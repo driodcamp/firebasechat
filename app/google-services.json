@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "378364711824",
+    "firebase_url": "https://fir-chat-6465b.firebaseio.com",
+    "project_id": "fir-chat-6465b",
+    "storage_bucket": "fir-chat-6465b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378364711824:android:c64ca60d6d447af2",
+        "android_client_info": {
+          "package_name": "com.driodcamp.firebasechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378364711824-hicrgamb9vsvcedfb63heqr25s7rlhq0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.driodcamp.firebasechat",
+            "certificate_hash": "5CEAD32A2570007A7A2C5BDDA68EB868FF4A96D9"
+          }
+        },
+        {
+          "client_id": "378364711824-vdbhe5ht37cdr1lhh8e79p71ju702ein.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqZ5gRONP5YYBZOWo9Z1YBGMRZFghzLfw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378364711824-vdbhe5ht37cdr1lhh8e79p71ju702ein.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
